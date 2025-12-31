@@ -1,2 +1,2 @@
-Olá, meu nome é Luíz.
+Olá, meu nome é Luíz Antônio de Freitas - trabalhando na nova branch staging.
 Continuando o aprendizado do Git, fiz esta primeira modicação do código.
