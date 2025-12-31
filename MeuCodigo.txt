@@ -1,1 +1,2 @@
 Olá, meu nome é Luíz.
+Continuando o aprendizado do Git, fiz esta primeira modicação do código.
